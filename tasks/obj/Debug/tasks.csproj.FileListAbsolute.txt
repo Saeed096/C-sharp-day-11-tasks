@@ -1,0 +1,7 @@
+E:\iti\c#\Day11\tasks\tasks\bin\Debug\tasks.exe.config
+E:\iti\c#\Day11\tasks\tasks\bin\Debug\tasks.exe
+E:\iti\c#\Day11\tasks\tasks\bin\Debug\tasks.pdb
+E:\iti\c#\Day11\tasks\tasks\obj\Debug\tasks.csproj.AssemblyReference.cache
+E:\iti\c#\Day11\tasks\tasks\obj\Debug\tasks.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day11\tasks\tasks\obj\Debug\tasks.exe
+E:\iti\c#\Day11\tasks\tasks\obj\Debug\tasks.pdb
